@@ -9,4 +9,10 @@ CropCare is a precision agriculture solution that integrates IoT, AI, and machin
 4. Flask-based web dashboard for visualization and control
 5. IoT integration for remote access and monitoring
 
+# Hardware Components
+Raspberry Pi (main controller)
+Soil Sensors: NPK, pH, Moisture, Temperature
+Camera Module (for soil image capture)
+WiFi Module (for IoT connectivity)
+
 
