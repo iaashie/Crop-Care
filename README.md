@@ -1,2 +1,5 @@
-# Crop-Care
-Developed an IoT-based smart farming solution using Raspberry Pi and integrated soil sensors (NPK, pH, moisture, temperature) for real-time soil condition monitoring. Incorporated machine learning models for soil type classification from images using CNN and data-driven crop and fertilizer recommendations via decision tree algorithms. Built a responsive web dashboard using Flask and Python for visualization and control. The solution offers an affordable, scalable approach to precision agriculture, with applications for individual farmers, AgriTech startups, and CSR-driven sustainability initiatives.
+# CropCare – IoT-Based Smart Farming System
+
+CropCare is a precision agriculture solution that integrates IoT, AI, and machine learning to enable real-time soil monitoring, automated crop and fertilizer recommendations, and smart farming using affordable sensor-based technology. Designed for scalability and accessibility, especially for Indian farmers.
+
+
